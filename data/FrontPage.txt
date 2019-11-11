@@ -1,0 +1,3 @@
+Hello, Front Page!
+
+Have you tried our new page [test]?
